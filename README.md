@@ -16,6 +16,8 @@ Built with **Laravel 13**, **Vue 3**, and **Inertia**.
 
 ## Screenshots
 
+![Welcome page](docs/screenshots/welcome.png)
+
 | Player profile                                 | Edit a game                                    |
 | ---------------------------------------------- | ---------------------------------------------- |
 | ![Player profile](docs/screenshots/player.png) | ![Edit a game](docs/screenshots/edit-game.png) |
