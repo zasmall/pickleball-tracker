@@ -49,8 +49,8 @@ Built with **Laravel 13**, **Vue 3**, and **Inertia**.
 Requirements: PHP 8.4+, Composer, and Node 22+.
 
 ```bash
-git clone https://github.com/zasmall/Pickleball-tracker.git
-cd Pickleball-tracker
+git clone https://github.com/zasmall/pickleball-tracker.git
+cd pickleball-tracker
 composer setup
 ```
 

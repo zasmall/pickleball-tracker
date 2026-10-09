@@ -76,7 +76,7 @@ const mainNavItems: NavItem[] = [
 const rightNavItems: NavItem[] = [
     {
         title: 'Repository',
-        href: 'https://github.com/zasmall/Pickleball-tracker',
+        href: 'https://github.com/zasmall/pickleball-tracker',
         icon: Folder,
     },
 ];
